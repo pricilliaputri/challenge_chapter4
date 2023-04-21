@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pricillia_Chapter4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="confirm">Password Confirm</string>
+    <string name="insert_tittle">Masukan Judul</string>
+    <string name="insert_note">Masukan Catatan</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="ic_delete">ic delete</string>
+    <string name="ic_edit">ic edit</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="fab_add">fab add</string>
+    <string name="delete">Delete</string>
+    <string name="tv_cancel">Cancel</string>
+    <string name="add_data">Add Data</string>
+</resources>
